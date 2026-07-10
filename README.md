@@ -32,7 +32,7 @@ I care less about demos and more about what holds up in production: measurable r
 
 ### ⚡ Outside the terminal
 
-- 🏃 Marathon runner — chasing negative splits and the next PR
+- 🏃 Marathon runner — chasing negative splits and the next PB
 - 🎹 Still play piano when the code compiles
 - 🏰 Age of Empires 2, unironically. Feudal rush or nothing.
 
