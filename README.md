@@ -40,3 +40,5 @@ I care less about demos and more about what holds up in production: measurable r
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filippo-pellizzari/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:filippo.pellizzari109@gmail.com)
+
+<!-- profile overview -->
